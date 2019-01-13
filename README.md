@@ -15,6 +15,7 @@ You can use this project to define a large project component, such as a RESTful 
   * tokens
 * **NO real names** 
   * no personally attributable data of any sort
+  Okay
 
 **Your repo will turn up on public searches.** Likely initiated by people just like yourself; desperate for information. Please help them!
 
